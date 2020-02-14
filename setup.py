@@ -9,7 +9,7 @@ setup(
   author = 'David Nickolo Perez',                   # Type in your name
   author_email = 'davperez94@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/dumbfoundavid',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/dumbfoundavid/DiaagLibrary/archive/0.1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/dumbfoundavid/DiaagLibrary/archive/0.2.tar.gz',    # I explain this later on
   keywords = ['SOME', 'MEANINGFULL', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[],
   classifiers=[
